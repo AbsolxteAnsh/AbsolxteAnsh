@@ -1,6 +1,6 @@
 <svg width="720" height="110" viewBox="0 0 720 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated Fai1th.exe title</title>
-  <desc id="desc">A monochrome animated terminal title reading Fai1th.exe with a blinking cursor.</desc>
+  <title id="title">Animated Ansh.exe title</title>
+  <desc id="desc">A monochrome animated terminal title reading Ansh.exe  with a blinking cursor.</desc>
   <style>
     .bg { fill: #000000; }
     .text {
@@ -36,7 +36,7 @@
   <rect class="bg" width="720" height="110" rx="12"/>
   <path class="scan" d="M40 84H680"/>
   <g class="pulse">
-    <text x="360" y="65" text-anchor="middle" class="text">Fai1th.exe</text>
+    <text x="360" y="65" text-anchor="middle" class="text">Ansh.exe</text>
   </g>
   <rect x="568" y="24" width="26" height="54" rx="2" class="cursor"/>
   <text x="360" y="96" text-anchor="middle" class="sub">chmod +x ./becoming</text>
