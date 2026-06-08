@@ -4,19 +4,19 @@
 
 <br />
 
-<a href="https://github.com/Fai1th">
+<a href="https://github.com/AbsolxteAnsh">
   <img src="./visitors.svg" alt="visitors" height="28" /><img src="https://komarev.com/ghpvc/?username=Fai1th&label=&color=000000&style=for-the-badge" alt="visitor count" height="28" />
 </a>
 
 <br />
 
-<a href="https://guns.lol/fai1th">
-  <img src="https://img.shields.io/badge/GUNS.LOL-000000?style=for-the-badge&logo=target&logoColor=white" alt="guns.lol/fai1th" />
+<a href="https://guns.lol/absolxteansh">
+  <img src="https://img.shields.io/badge/GUNS.LOL-000000?style=for-the-badge&logo=target&logoColor=white" alt="guns.lol/absolxteansh" />
 </a>
-<a href="https://github.com/Fai1th">
+<a href="https://github.com/AbsolxteAnsh">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<a href="https://open.spotify.com/user/31sbkq5o2viqrf5ilhq43lyg3teq">
+<a href="https://open.spotify.com/user/31r5iozpli35kzmbm6bfaha7zciq">
   <img src="https://img.shields.io/badge/SPOTIFY-000000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile" />
 </a>
 
@@ -40,6 +40,6 @@
 <br />
 <br />
 
-<img src="./profile-ui.svg" alt="Fai1th custom contribution graph" width="100%" />
+<img src="./profile-ui.svg" alt="Ansh custom contribution graph" width="100%" />
 
 </div>
