@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ansh contribution graph</title>
-  <desc id="desc">A monochrome custom contribution line graph for the Fai1th GitHub profile README.</desc>
+  <title id="title">Ansh's contribution graph</title>
+  <desc id="desc">A monochrome custom contribution line graph for the Ansh GitHub profile README.</desc>
   <defs>
     <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
       <path d="M42 0H0V42" stroke="#ffffff" stroke-opacity="0.08"/>
@@ -25,7 +25,7 @@
   <rect class="bg" width="1200" height="420"/>
   <rect width="1200" height="420" fill="url(#grid)"/>
 
-  <text x="600" y="46" text-anchor="middle" class="mono white">Fai1th's Contribution Graph</text>
+  <text x="600" y="46" text-anchor="middle" class="mono white">Ansh's Contribution Graph</text>
   <text x="600" y="72" text-anchor="middle" class="micro muted">black / white / quiet signal</text>
 
   <g transform="translate(86 90)">
