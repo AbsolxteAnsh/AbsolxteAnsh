@@ -23,14 +23,21 @@
 <br />
 <br />
 
-![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=minecraft&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric-000000?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-000000?style=flat-square&logoColor=white)
-![Modrinth](https://img.shields.io/badge/Modrinth-000000?style=flat-square&logo=modrinth&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
+
+<a href="https://modrinth.com/user/Absolxteansh">
+  <img src="https://img.shields.io/badge/Modrinth-000000?style=flat-square&logo=modrinth&logoColor=white" />
+</a>
+<a href="https://discord.com/users/1349683593546563637">
+  <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://x.com/AbsolxteAnsh">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+
+<a href="https://reddit.com/user/u/Absolxteansh">
+  <img src="https://img.shields.io/badge/Reddit-000000?style=flat-square&logo=reddit&logoColor=white" />
+</a>
 <br />
 <br />
 
