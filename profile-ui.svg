@@ -1,0 +1,68 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fai1th custom contribution graph</title>
+  <desc id="desc">A monochrome custom contribution line graph for the Fai1th GitHub profile README.</desc>
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#ffffff" stroke-opacity="0.08"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="80" x2="0" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #000000; }
+      .white { fill: #ffffff; }
+      .muted { fill: #a8a8a8; }
+      .dim { fill: #5f5f5f; }
+      .line { stroke: #ffffff; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { stroke: #ffffff; stroke-opacity: 0.24; }
+      .mono { font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+      .small { font: 600 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+      .micro { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="420"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <text x="600" y="46" text-anchor="middle" class="mono white">Fai1th's Contribution Graph</text>
+  <text x="600" y="72" text-anchor="middle" class="micro muted">black / white / quiet signal</text>
+
+  <g transform="translate(86 90)">
+    <path d="M0 280H1040" class="thin"/>
+    <path d="M0 220H1040" class="thin"/>
+    <path d="M0 160H1040" class="thin"/>
+    <path d="M0 100H1040" class="thin"/>
+    <path d="M0 40H1040" class="thin"/>
+
+    <text x="-34" y="284" class="micro dim">0</text>
+    <text x="-34" y="224" class="micro dim">1</text>
+    <text x="-34" y="164" class="micro dim">2</text>
+    <text x="-34" y="104" class="micro dim">3</text>
+    <text x="-34" y="44" class="micro dim">4</text>
+
+    <path d="M0 280 C55 278 76 210 118 210 C168 210 166 280 210 280 C260 280 262 186 312 186 C362 186 356 280 410 280 C466 280 480 68 520 68 C560 68 570 280 620 280 C670 280 684 228 732 228 C784 228 790 280 842 280 C902 280 925 120 970 120 C1010 120 1022 204 1040 186 L1040 320 L0 320 Z" fill="url(#fade)"/>
+    <path d="M0 280 C55 278 76 210 118 210 C168 210 166 280 210 280 C260 280 262 186 312 186 C362 186 356 280 410 280 C466 280 480 68 520 68 C560 68 570 280 620 280 C670 280 684 228 732 228 C784 228 790 280 842 280 C902 280 925 120 970 120 C1010 120 1022 204 1040 186" class="line"/>
+
+    <g class="white">
+      <circle cx="0" cy="280" r="8"/>
+      <circle cx="118" cy="210" r="8"/>
+      <circle cx="210" cy="280" r="8"/>
+      <circle cx="312" cy="186" r="8"/>
+      <circle cx="410" cy="280" r="8"/>
+      <circle cx="520" cy="68" r="8"/>
+      <circle cx="620" cy="280" r="8"/>
+      <circle cx="732" cy="228" r="8"/>
+      <circle cx="842" cy="280" r="8"/>
+      <circle cx="970" cy="120" r="8"/>
+      <circle cx="1040" cy="186" r="8"/>
+    </g>
+
+    <text x="0" y="316" text-anchor="middle" class="micro muted">01</text>
+    <text x="210" y="316" text-anchor="middle" class="micro muted">07</text>
+    <text x="410" y="316" text-anchor="middle" class="micro muted">13</text>
+    <text x="620" y="316" text-anchor="middle" class="micro muted">19</text>
+    <text x="842" y="316" text-anchor="middle" class="micro muted">25</text>
+    <text x="1040" y="316" text-anchor="middle" class="micro muted">31</text>
+  </g>
+</svg>
