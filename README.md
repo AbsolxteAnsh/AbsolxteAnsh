@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./title.svg" alt="Fai1th.exe" width="70%" />
+<img src="./title.svg" alt="Ansh.exe" width="70%" />
 
 <br />
 
@@ -23,15 +23,14 @@
 <br />
 <br />
 
-![Python](https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-000000?style=flat-square&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs%20code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=flat-square&logo=minecraft&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-000000?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-000000?style=flat-square&logoColor=white)
+![Modrinth](https://img.shields.io/badge/Modrinth-000000?style=flat-square&logo=modrinth&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 <br />
 <br />
 
