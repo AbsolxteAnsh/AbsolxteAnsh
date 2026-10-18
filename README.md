@@ -5,7 +5,7 @@
   <img src="./assets/absolxteansh-logo.png" alt="AbsolxteAnsh" width="320" />
 </p>
 
-## Stack
+## Stacks
 
 <p align="center">
   <img src="./assets/icons/python.svg" width="36" height="36" />&nbsp;
